@@ -25,7 +25,6 @@ Live demo-style experience with realistic UI, dark mode, responsive design, and 
 - **Bootstrap 5** + React Bootstrap
 - **Axios** for API calls
 - **Font Awesome** (icons)
-- **QR Code React** (likely for orders/receipts)
 
 **Backend (Separate / Assumed):**
 - Node.js / Express (running on `http://localhost:5000`)
@@ -33,6 +32,7 @@ Live demo-style experience with realistic UI, dark mode, responsive design, and 
 
 **Other:**
 - Proxy configured in `package.json` for seamless frontend-backend development
+- Unsplash for product images
 
 ## 📁 Project Structure
 
