@@ -129,6 +129,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
-**Made with ❤️ by Asar**
+**Made by Asar**
 
 Feel free to star the repo if you find it useful! Contributions welcome.
