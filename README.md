@@ -1,4 +1,4 @@
-**# E-Commerce Platform (Draken)**
+### E-Commerce Platform (Draken)
 
 A modern, full-featured e-commerce storefront built with React. Features product browsing, cart management, user authentication, profile, and seamless checkout flow with a backend API (MongoDB).
 
